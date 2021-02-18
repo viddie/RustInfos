@@ -1,11 +1,11 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [HOME](/)
 
-* [Gearsets](./Gearsets)
+* [Gearsets](Gearsets)
 
-* [Buyable Items](./Buyable-Items)
+* [Buyable Items](Buyable-Items)
 
-* [Glowing Sights](./Glowing-Sights)
+* [Glowing Sights](Glowing-Sights)
 
