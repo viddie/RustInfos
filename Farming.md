@@ -4,7 +4,13 @@
 
 ## Items
 
-### 
+### Essential Items
+
+### Ceiling Light
+
+### Sprinkler
+
+### Heater
 
 ## Stages
 
