@@ -2,10 +2,10 @@
 
 
 * [HOME](/)
+* [Gearsets Crafting Cost](Gearsets)
 
-* [Gearsets](Gearsets)
-
+  * [Tier 0](#Tier 0)
 * [Buyable Items](Buyable-Items)
-
 * [Glowing Sights](Glowing-Sights)
+* [Farming Mechanics](Farming)
 
