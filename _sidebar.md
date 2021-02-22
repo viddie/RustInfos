@@ -6,4 +6,5 @@
 * [Buyable Items](Buyable-Items)
 * [Glowing Sights](Glowing-Sights)
 * [Farming Mechanics](Farming)
+* [Weapon Recoils](Recoil)
 
