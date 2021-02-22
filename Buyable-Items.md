@@ -1,5 +1,9 @@
 # Buyable Items
 
+- This list isn't complete.
+- If something is missing or new buyable items are added to the game, feel free to message me about it or create a [pull request](https://github.com/viddie/RustInfos/pulls)
+- Source list can be found [here](https://rustlabs.com/blueprint-tracker) in the sidebar on the right
+
 | Item                                                         | Price                                                | Advantage                                                    | Additional                                                   |
 | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Fogger 3000](https://rustlabs.com/item/fogger-3000#tab=skins) | 8.52$                                                | Fun                                                          |                                                              |
@@ -13,6 +17,7 @@
 | [Scarecrow](https://rustlabs.com/item/scarecrow#tab=craft)   | 14.99$                                               | Fun                                                          |                                                              |
 | [Chinese Lantern](https://rustlabs.com/item/chinese-lantern) | 3.99$                                                | Fun                                                          |                                                              |
 | [Chippy Arcade Game](https://rustlabs.com/item/chippy-arcade-game) | Buy Chippy (12.49€ on Steam) and play for 30 minutes | Fun                                                          |                                                              |
+| [Garry's Mod Tool Gun](https://rustlabs.com/item/garry's-mod-tool-gun) | Buy Garry's Mod () and play for 30 minutes           | 3 meters upgrade range (instead of 1.5 for the hammer), costs 100x Wood, 20x Metal Fragments | "[Works as a mini light source if you spam left click](https://rustlabs.com/item/garry's-mod-tool-gun#tab=tips)" |
 | [Christmas Door Wreath](https://rustlabs.com/item/christmas-door-wreath) | 1.77$                                                | Fun                                                          |                                                              |
 | [Christmas Lights](https://rustlabs.com/item/christmas-lights) | 78.62$                                               | Fun                                                          |                                                              |
 | [Dragon Door Knocker](https://rustlabs.com/item/dragon-door-knocker) | 3.49$                                                | Fun                                                          |                                                              |
@@ -50,5 +55,5 @@
 | [Rustige Egg - Purple](https://rustlabs.com/item/rustige-egg-purple) | 7.60$                                                | Fun                                                          | Miniature Oil Rig + Circling Chinook. Plays a song while opened |
 | [Rustige Egg - Red](https://rustlabs.com/item/rustige-egg-red) | 19.32$                                               | Fun                                                          | Miniature Dome. Plays a song while opened                    |
 | [Skull Spikes](https://rustlabs.com/item/skull-spikes)       | 8.89$                                                | Fun                                                          | Looks very spooky                                            |
-| [Skull Trophy](https://rustlabs.com/item/skull-trophy)       | 26.35$                                               | Fun                                                          | "The ultimate flex. Use this to assert your dominance over your neighbors" |
+| [Skull Trophy](https://rustlabs.com/item/skull-trophy)       | 26.35$                                               | Fun                                                          | "[The ultimate flex. Use this to assert your dominance over your neighbors](https://rustlabs.com/item/skull-trophy#tab=tips)" |
 |                                                              |                                                      |                                                              |                                                              |
