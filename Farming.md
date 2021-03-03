@@ -6,7 +6,7 @@
 
 ### Basic Items
 
-| Item Name                                                    | Usage                                                        | Additional Notes                               | Research Cost     | Found In                                                     |
+| Item                                                         | Usage                                                        | Additional Notes                               | Research Cost     | Found In                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------- | ----------------- | ------------------------------------------------------------ |
 | [Large Planter Box](https://rustlabs.com/item/large-planter-box) | Holds 9 seeds                                                | Fits neatly into a 1x1 square foundation       | 20x Scrap         | [Barrel](https://rustlabs.com/entity/barrel) 1%, [Primitive Crate](https://rustlabs.com/entity/primitive-crate) 5% |
 | [Water Jug](https://rustlabs.com/item/water-jug)             | Holds 5 liters of water. Must-have (multiple) when you are nowhere near a water source and need to travel to a lake/river for water. | Can be bought at Bandit Camp for 5x Scrap each | -                 | [Ration Box](https://rustlabs.com/entity/ration-box) 25%, [Food Crate](https://rustlabs.com/entity/food-crate) 22% |
@@ -14,7 +14,7 @@
 
 ### Ceiling Light
 
-| Item Name                                                | Usage                                                        | Additional Notes                                             | Research Cost | Found In                                                     |
+| Item                                                     | Usage                                                        | Additional Notes                                             | Research Cost | Found In                                                     |
 | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
 | [Ceiling Light](https://rustlabs.com/item/ceiling-light) | Provides 100% light to all plants in a large planter box if placed above the center of one. | Each light consumes 2 energy and has a passthrough so you can chain all of them together. Can be bought at Bandit Camp for 30x Scrap | 20x Scrap     | [Sunken Chest](https://rustlabs.com/entity/sunken-chest) 1%, [Crate](https://rustlabs.com/entity/crate) 1%, [Oil Rig Scientist](https://rustlabs.com/entity/oil-rig-scientist) 0.2% |
 
@@ -27,7 +27,7 @@
 
 ### Sprinkler
 
-| Item Name                                        | Usage                                                        | Additional Notes                                             | Research Cost | Found In                                                     |
+| Item                                             | Usage                                                        | Additional Notes                                             | Research Cost | Found In                                                     |
 | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
 | [Sprinkler](https://rustlabs.com/item/sprinkler) | Slowly gives water evenly to all Planter Boxes in range. Outputs 180ml water per minute in total. | Doesn't require energy but water. Has a passthrough so you can chain Sprinklers together (max. 6). Can be bought at Bandit Camp for 15x Scrap | 20x Scrap     | [Sunken Chest](https://rustlabs.com/entity/sunken-chest) 1%, [Crate](https://rustlabs.com/entity/crate) 1%, [Oil Rig Scientist](https://rustlabs.com/entity/oil-rig-scientist) 0.2% |
 
@@ -41,7 +41,7 @@
 
 ### Heater
 
-| Item Name                                                    | Usage                                                        | Additional Notes                                             | Research Cost | Found In                                                     |
+| Item                                                         | Usage                                                        | Additional Notes                                             | Research Cost | Found In                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
 | [Electric Heater](https://rustlabs.com/item/electric-heater) | Provides almost 100% temperature to your plants (Watch [this](https://www.youtube.com/watch?v=YmGT2vG14nk) for more placement info) | Each Heater consumes 3 energy and has a passthrough so you can chain Heaters together. Can be bought at Bandit Camp for 75x Scrap | 75x Scrap     | [Sunken Chest](https://rustlabs.com/entity/sunken-chest) 2%, [Crate](https://rustlabs.com/entity/crate) 1%, [Oil Rig Scientist](https://rustlabs.com/entity/oil-rig-scientist) 0.2% |
 
@@ -52,7 +52,7 @@
   - 1x [Small Rechargable Battery](https://rustlabs.com/item/small-rechargable-battery) (~6 energy output at 8 energy input)
   - 2x Heaters (3 energy consumption each, 6 in total)
 
-### Total Resources (2x2 farm)
+### Total Scrap (2x2 farm)
 
 Here is a rundown of the Scrap cost to research all items needed for the 2x2 farm described above without the tech tree:
 

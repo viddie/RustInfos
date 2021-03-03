@@ -2,9 +2,13 @@
 
 
 * [HOME](/)
-* [Buyable Items](Buyable-Items)
-* [Farming Mechanics](Farming)
-* [Gearsets Crafting Cost](Gearsets)
-* [Glowing Sights](Glowing-Sights)
-* [Weapon Recoils](Recoil)
+* Information
 
+  * [Buyable Items](Buyable-Items)
+  * [Gearsets Crafting Cost](Gearsets)
+  * [Glowing Sights](Glowing-Sights)
+  * [Guides](Guides)
+* Mechanics
+
+  * [Farming Mechanics](Farming)
+  * [Weapon Recoils](Recoil)
