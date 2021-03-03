@@ -8,6 +8,7 @@
   * [Gearsets Crafting Cost](Gearsets)
   * [Glowing Sights](Glowing-Sights)
   * [Guides](Guides)
+  * [Optimal Burnables](Optimal-Burnables)
 * Mechanics
 
   * [Damage Dropoff](Damage)
