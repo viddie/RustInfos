@@ -10,5 +10,6 @@
   * [Guides](Guides)
 * Mechanics
 
-  * [Farming Mechanics](Farming)
-  * [Weapon Recoils](Recoil)
+  * [Damage Dropoff](Damage)
+  * [Farming](Farming)
+  * [Weapon Recoil](Recoil)
