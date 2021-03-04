@@ -1,0 +1,58 @@
+time   attacker id        target           id        weapon          ammo         area  distance old_hp new_hp info 
+294.1s you      104791949 testridablehorse 104803888 crossbow.entity arrow_wooden leg   9.0m     400.0  340.0       
+288.9s you      104791949 testridablehorse 104803888 crossbow.entity arrow_wooden leg   10.8m    340.0  280.0       
+283.8s you      104791949 testridablehorse 104803888 crossbow.entity arrow_wooden leg   11.9m    280.0  220.0       
+279.1s you      104791949 testridablehorse 104803888 crossbow.entity arrow_wooden leg   13.2m    220.0  160.0       
+273.1s you      104791949 testridablehorse 104803888 crossbow.entity arrow_wooden leg   14.4m    160.0  100.0       
+228.6s you      104791949 testridablehorse 104803888 crossbow.entity arrow_wooden leg   4.7m     100.0  40.0        
+223.8s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden leg   4.4m     440.0  380.0       
+219.3s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden leg   5.6m     380.0  320.0       
+212.5s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden chest 24.6m    320.0  261.5       
+207.1s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden leg   29.5m    261.5  203.9       
+190.8s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden chest 37.6m    203.9  147.5       
+185.3s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden leg   42.9m    147.5  91.9        
+174.2s you      104791949 testridablehorse 104803616 crossbow.entity arrow_wooden chest 49.9m    91.9   37.5        
+> copy
+36.2s  you      104791949 testridablehorse 104804548 crossbow.entity arrow_wooden leg   17.1m    400.0  340.3                 
+31.4s  you      104791949 testridablehorse 104804548 crossbow.entity arrow_wooden leg   18.1m    340.3  280.8                 
+26.5s  you      104791949 testridablehorse 104804548 crossbow.entity arrow_wooden leg   19.2m    280.8  221.5                 
+21.1s  you      104791949 testridablehorse 104804548 crossbow.entity arrow_wooden leg   20.6m    221.5  162.4                 
+16.2s  you      104791949 testridablehorse 104804548 crossbow.entity arrow_wooden leg   21.9m    162.4  103.5                
+> copy      
+45.4s  you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   15.8m    400.0  340.1                 
+38.4s  you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   16.1m    340.1  280.3                 
+33.6s  you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   16.4m    280.3  220.5                 
+28.5s  you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   16.8m    220.5  160.8                 
+12.2s  you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   15.2m    160.8  100.9                 
+> copy               
+19.1s  you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   14.8m    100.9  40.9                  
+> copy                
+103.2s you      104791949 testridablehorse 104885059 crossbow.entity arrow_wooden leg   14.8m    100.9  40.9                  
+63.7s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden leg   15.1m    400.0  340.0                 
+58.5s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden leg   15.2m    340.0  280.1                 
+41.3s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden leg   15.0m    280.1  220.1                 
+36.4s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden leg   15.0m    220.1  160.1                 
+> copy              
+48.5s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden leg     60.0m    160.1  107.3                 
+42.5s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden leg     60.0m    107.3  54.5                 
+14.3s  you      104791949 testridablehorse 104884977 crossbow.entity arrow_wooden chest   59.9m    54.5   1.6                   
+> copy
+34.8s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden leg     76.1m    400.0  349.8              
+> copy
+24.8s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden leg     80.5m    349.8  300.3                 
+> copy
+88.1s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden foot    83.4m    300.3  251.2                 
+83.5s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden leg     83.8m    251.2  202.2                 
+78.4s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden foot    83.8m    202.2  153.2                 
+69.9s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden foot    86.3m    153.2  104.6                 
+60.8s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden leg     86.2m    104.6  56.0              
+15.5s  you      104791949 testridablehorse 104885355 crossbow.entity arrow_wooden leg     88.4m    56.0   7.8    
+> copy             
+44.4s  you      104791949 testridablehorse 104884812 crossbow.entity arrow_wooden leg     88.5m    303.3  255.1                 
+20.2s  you      104791949 testridablehorse 104884812 crossbow.entity arrow_wooden leg     90.9m    255.1  207.1                 
+15.3s  you      104791949 testridablehorse 104884812 crossbow.entity arrow_wooden leg     89.8m    207.1  159.1                 
+> copy        
+26.4s  you      104791949 testridablehorse 104884812 crossbow.entity arrow_wooden chest   89.9m    159.1  111.1                 
+21.7s  you      104791949 testridablehorse 104884812 crossbow.entity arrow_wooden chest   90.0m    111.1  63.1                  
+16.7s  you      104791949 testridablehorse 104884812 crossbow.entity arrow_wooden chest   89.8m    63.1   15.0                  
+> copy

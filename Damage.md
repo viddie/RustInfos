@@ -33,6 +33,17 @@ Note: The data points in the images below are raw values extracted from the inga
 
 ![](resources/dmg-dropoff/bow.png)
 
+## Crossbow
+
+| Stat      | Value      |
+| --------- | ---------- |
+| Start     | 15 m       |
+| End       | 90 m       |
+| Loss/m    | ~0.26667 % |
+| Confirmed | Yes        |
+
+![](resources/dmg-dropoff/crossbow.png)
+
 ## Revolver
 
 | Stat      | Value                |
