@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 
 * [HOME](/)
 * Information
@@ -16,3 +14,4 @@
   * [Farming](Farming)
   * [Radiation Protection](Rad-Protection)
   * [Weapon Recoil](Recoil)
+
