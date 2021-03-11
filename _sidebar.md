@@ -10,6 +10,7 @@
   * [Optimal Burnables](Optimal-Burnables)
 * Mechanics
 
+  * [Comfort](Comfort)
   * [Damage Dropoff](Damage)
   * [Farming](Farming)
   * [Radiation Protection](Rad-Protection)

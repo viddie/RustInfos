@@ -1,0 +1,74 @@
+time   attacker id        target           id        weapon                 ammo        area  distance old_hp new_hp info           
+112.3s you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet chest 10.5m    400.0  360.0                 
+102.2s you      106251425 testridablehorse 106397005 N/A                    N/A         chest NaN      360.0  360.0  projectile_nan 
+100.9s you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   14.0m    360.0  320.0                 
+99.2s  you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   16.9m    320.0  280.0                 
+97.8s  you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   18.9m    260.0  220.0                 
+96.3s  you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   21.3m    200.0  160.1                 
+95.0s  you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   23.7m    140.2  100.6                 
+95.0s  you      106251425 testridablehorse 106397005 N/A                    N/A         chest NaN      100.6  100.6  projectile_nan 
+93.8s  you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   25.5m    100.6  61.1                  
+92.7s  you      106251425 testridablehorse 106397005 semi_auto_rifle.entity riflebullet leg   27.4m    41.4   2.1                   
+92.7s  you      106251425 testridablehorse 106397005 N/A                    N/A         chest NaN      2.1    2.1    projectile_nan 
+90.4s  you      106251425 testridablehorse 106397685 N/A                    N/A         chest NaN      400.0  400.0  projectile_nan 
+89.5s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet leg   32.5m    400.0  361.2                 
+88.6s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet leg   34.1m    341.9  303.3                 
+88.6s  you      106251425 testridablehorse 106397685 N/A                    N/A         chest NaN      303.3  303.3  projectile_nan 
+87.6s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet leg   35.7m    303.3  264.9                 
+86.5s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet leg   37.5m    245.7  207.4                 
+85.0s  you      106251425 testridablehorse 106397685 N/A                    N/A         chest NaN      188.3  188.3  projectile_nan 
+> copy
+49.4s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet chest 20.2m    188.3  148.3                 
+46.2s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet chest 20.3m    148.3  108.4                 
+44.7s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet chest 20.4m    108.4  68.4                  
+15.2s  you      106251425 testridablehorse 106397685 semi_auto_rifle.entity riflebullet chest 20.2m    68.4   28.4                  
+> copy    
+35.7s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.4m    400.0  360.0                 
+16.4s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    360.0  320.1                 
+> copy
+73.6s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    320.1  280.1                 
+51.7s  you      106251425 testridablehorse 106396846 N/A                    N/A         chest NaN      280.1  280.1  projectile_nan 
+50.4s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    280.1  240.1                 
+49.2s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    240.1  200.1                 
+48.1s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    200.1  160.1                 
+47.0s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    160.1  120.1                 
+45.9s  you      106251425 testridablehorse 106396846 N/A                    N/A         chest NaN      120.1  120.1  projectile_nan 
+44.8s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.0m    120.1  80.1                  
++ 1 event in the last 10 seconds
+> copy
+17.2s  you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet chest 140.0m   400.0  368.0                 
+14.9s  you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet leg   139.8m   368.0  336.0                 
+11.4s  you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet leg   163.8m   320.0  288.0                 
+> copy
+39.5s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet chest 107.9m   360.0  328.0                 
+19.2s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg   104.7m   328.0  296.0                 
+15.1s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest NaN      280.0  280.0  projectile_nan 
+14.1s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg   104.2m   280.0  248.0                 
+12.3s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg   103.9m   232.0  200.0                 
+10.6s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg   103.5m   184.0  152.0                 
+> copy
+32.5s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet chest   104.6m   336.0  304.0                 
+31.1s you      106251425 testridablehorse 106423609 N/A                    N/A         chest   NaN      304.0  304.0  projectile_nan 
+30.2s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet leg     104.4m   304.0  272.0                 
+28.9s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet leg     104.0m   256.0  224.0                 
+27.8s you      106251425 testridablehorse 106423609 N/A                    N/A         chest   NaN      208.0  208.0  projectile_nan 
+26.7s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet leg     103.6m   208.0  176.0                 
+25.5s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet leg     103.4m   160.0  128.0                 
+24.4s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet leg     103.2m   112.0  80.0                  
+23.2s you      106251425 testridablehorse 106423609 semi_auto_rifle.entity riflebullet leg     103.0m   64.0   32.0                  
+21.6s you      106251425 testridablehorse 106423738 N/A                    N/A         chest   NaN      208.0  208.0  projectile_nan 
+20.6s you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet leg     101.7m   208.0  176.0                 
+19.2s you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet leg     101.0m   176.0  144.0                 
+17.9s you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      136.0  136.0  projectile_nan 
+15.5s you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg     101.2m   136.0  104.0                 
+14.1s you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg     100.9m   104.0  72.0                  
+> copy
+35.8s  you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet chest   100.4m   128.0  96.0                  
+34.4s  you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet chest   100.2m   96.0   64.0                  
+33.0s  you      106251425 testridablehorse 106423738 semi_auto_rifle.entity riflebullet leg     100.0m   64.0   32.0                  
+29.1s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      56.0   56.0   projectile_nan 
+27.2s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      56.0   56.0   projectile_nan 
+26.1s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      56.0   56.0   projectile_nan 
+24.7s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      56.0   56.0   projectile_nan 
+23.7s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg     100.0m   56.0   24.0                  
+> copy

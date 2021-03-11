@@ -1,6 +1,6 @@
 # Buyable Items
 
-- This list isn't complete.
+- This list isn't complete. The prices in the list are from the `20.02.2021` and are subject to change
 - If something is missing or new buyable items are added to the game, feel free to message me about it or create a [pull request](https://github.com/viddie/RustInfos/pulls)
 - Source list can be found [here](https://rustlabs.com/blueprint-tracker) in the sidebar on the right
 
@@ -38,13 +38,13 @@
 | [Two Sided Town Post Sign](https://rustlabs.com/item/two-sided-town-sign-post) | 0.41$                                                | Fun                                                          |                                                              |
 | [XL Picture Frame](https://rustlabs.com/item/xl-picture-frame) | 0.46$                                                | Fun                                                          |                                                              |
 | [XXL Picture Frame](https://rustlabs.com/item/xxl-picture-frame) | 0.41$                                                | Fun                                                          |                                                              |
-| [Surgeon Scrubs](https://rustlabs.com/item/surgeon-scrubs#tab=skins) | 24.26$                                               | Hazmat Suit Light, Comparable to Bone Armor (+Radiation, +Cold, -Cost) | ![](https://fu.vi-home.de/f/v35hDOat)                        |
-| [Dragon Mask](https://rustlabs.com/item/dragon-mask)         | 9.90$                                                | Wolf Headdress reskin; same protection but 1/6th the craft time |                                                              |
+| [Surgeon Scrubs](https://rustlabs.com/item/surgeon-scrubs#tab=skins) | 24.26$                                               | Hazmat Suit Light, Comparable to Bone Armor (+Radiation, +Cold); Cost: 60 Cloth + 3 Sewing Kits (or 180 Cloth total) (compared to Bone Armor 30 Cloth + 100 Bones) | ![](https://fu.vi-home.de/f/v35hDOat)                        |
+| [Dragon Mask](https://rustlabs.com/item/dragon-mask)         | 9.90$                                                | Wolf Headdress alternative; same protection but 1/6th the craft time |                                                              |
 | [Nest Hat](https://rustlabs.com/item/nest-hat)               | 9.15$                                                | Fun                                                          | Wolf Headdress reskin                                        |
-| [Ox Mask](https://rustlabs.com/item/ox-mask)                 | 6.49$                                                | Wolf Headdress reskin; same protection but 1/6th the craft time |                                                              |
-| [Rat Mask](https://rustlabs.com/item/rat-mask)               | 13.72$                                               | Wolf Headdress reskin; same protection but 1/6th the craft time |                                                              |
-| [Santa Beard](https://rustlabs.com/item/santa-beard)         | 5.32$                                                | Bandana reskin; Crafts nearly instantly for 10 cloth (instead of 5 for bandana) |                                                              |
-| [Cursed Cauldron](https://rustlabs.com/item/cursed-cauldron) | 7.28$                                                | Campfire reskin; Can't burn yourself on this but takes up more space vertically |                                                              |
+| [Ox Mask](https://rustlabs.com/item/ox-mask)                 | 6.49$                                                | Wolf Headdress alternative; same protection but 1/6th the craft time |                                                              |
+| [Rat Mask](https://rustlabs.com/item/rat-mask)               | 13.72$                                               | Wolf Headdress alternative; same protection but 1/6th the craft time |                                                              |
+| [Santa Beard](https://rustlabs.com/item/santa-beard)         | 5.32$                                                | Bandana alternative; Crafts nearly instantly for 10 cloth (instead of 5 for bandana) |                                                              |
+| [Cursed Cauldron](https://rustlabs.com/item/cursed-cauldron) | 7.28$                                                | Campfire alternative; Can't burn yourself on this but takes up more space vertically |                                                              |
 | [Giant Candy Decor](https://rustlabs.com/item/giant-candy-decor) | 3.13$                                                | Fun                                                          | Pack with Giant Lollipop Decor                               |
 | [Giant Lollipop Decor](https://rustlabs.com/item/giant-lollipop-decor) | 3.13$                                                | Fun                                                          | Pack with Giant Candy Decor                                  |
 | [Small Candle Set](https://rustlabs.com/item/small-candle-set) | 6.82$                                                | Mediocre light source; disappears after ~30 minutes          | Pack with Large Candle Set                                   |

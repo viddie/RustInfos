@@ -1,5 +1,7 @@
 # Rad Protection
 
+## Base Radiation Values
+
 You need at least these rad protections to not get radiated in the monuments (or certain parts)
 
 | Monument (or part)                                           | Rad Protection |
@@ -26,4 +28,6 @@ You need at least these rad protections to not get radiated in the monuments (or
 | Trainyard (Some parts like the tipped over wagon or the house next to it) | 0              |
 | Water Treatment Plant (Most)                                 | 0              |
 | Water Treatment Plant (Junk Piles, Red Silos, Below Jump & Run) | 25             |
+
+## Radiation is fucked
 
