@@ -13,6 +13,8 @@
   * [Comfort](Comfort)
   * [Damage Dropoff](Damage)
   * [Farming](Farming)
+  * [Comfort](Comfort)
   * [Radiation Protection](Rad-Protection)
   * [Weapon Recoil](Recoil)
+  * [Comfort](Comfort)
 
