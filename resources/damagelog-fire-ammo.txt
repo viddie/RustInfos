@@ -1,0 +1,33 @@
+290.3s  player   48346977 you                       47864806 semi_auto_rifle.entity                           riflebullet_fire foot    1.9m     100.0  66.4                      
+252.3s  player   48346977 you                       47864806 semi_auto_rifle.entity                           riflebullet_fire chest   2.3m     60.3   40.7                      
+235.5s  player   48346977 you                       47864806 semi_auto_rifle.entity                           riflebullet      chest   3.2m     37.9   27.9                      
+11.8s   player   48346977 you                       47864806 semi_auto_rifle.entity                           riflebullet_fire chest   2.3m     100.0  55.2                      
+> copy
+
+
+
+
+Hypothesis:
+Fire Ammo deals 12% of the weapons damage additionally as fire damage. Ignores armor and deals 2x damage if the body part hit was covered in heavy plate armor.
+
+=> Against heavy plate armor, almost 1/4 of the weapons original damage is dealt by the fire alone. Add to that the 1/4 the bullet would originally do to heavy chestplate and you end up with a little less than 50% of the original damage. AK needs 5 hits to kill on heavy chestplate
+
+
+
+
+Fire Arrows: Flat 20 damage, not range dependent
+26.4s  you      23739066 testridablehorse 23768010 N/A                 N/A        generic 107.9m   390.5  370.5       
+26.4s  you      23739066 testridablehorse 23768010 bow_hunting.entity  arrow_fire leg     110.3m   370.5  338.5       
+
+Against heavy armor
+1 part
+161.3s you      23739066 you    23739066 N/A                N/A        generic 0.0m     100.0  73.4        
+161.3s you      23739066 you    23739066 N/A                N/A        generic 0.0m     100.0  73.4       
+- 
+119.3s you      23739066 you    23739066 N/A                N/A        generic 0.0m     100.0  73.4        
+119.3s you      23739066 you    23739066 N/A                N/A        generic 0.0m     100.0  73.4        
+
+all 3 parts
+33.2s  you      23739066 you    23739066 N/A                N/A        generic 0.0m     100.0  63.3        
+33.2s  you      23739066 you    23739066 N/A                N/A        generic 0.0m     100.0  63.3        
+> copy
