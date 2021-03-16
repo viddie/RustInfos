@@ -25,7 +25,7 @@
 | 0    | Bow                        | 50       | 100%        | 10          | 60        | ![](resources/dmg-dropoff/bow.png)          |
 | 1    | Nailgun                    | 18       | 40%         | 4           | 24        | ![](resources/dmg-dropoff/nailgun.png)      |
 | 1    | Crossbow                   | 60       | 150%        | 15          | 90        | ![](resources/dmg-dropoff/crossbow.png)     |
-| 1    | Compound Bow (Full Charge) | 100      | 200%        | 20          | 200       | ![](resources/dmg-dropoff/compound_bow.png) |
+| 1    | Compound Bow (Full Charge) | 100      | 200%        | 20          | 120       | ![](resources/dmg-dropoff/compound_bow.png) |
 | 1    | Revolver                   | 35       | 40%         | 4           | 24        | ![](resources/dmg-dropoff/revolver.png)     |
 | 2    | Custom SMG                 | 30       | 70%         | 7           | 42        | ![](resources/dmg-dropoff/custom.png)       |
 | 2    | Thompson                   | 37,5     | 100%        | 10          | 60        | ![](resources/dmg-dropoff/thompson.png)     |

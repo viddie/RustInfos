@@ -90,3 +90,4 @@ time  attacker id       target           id       weapon                 ammo   
 18.1s you      36534218 testridablehorse 37176544 semi_auto_rifle.entity riflebullet chest 91.0m    300.1  267.2       
 10.8s you      36534218 testridablehorse 37176544 semi_auto_rifle.entity riflebullet chest 96.8m    250.7  218.4       
 > copy
+
