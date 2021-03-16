@@ -26,12 +26,7 @@ time   attacker id        target           id        weapon                 ammo
 35.7s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.4m    400.0  360.0                 
 16.4s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    360.0  320.1                 
 > copy
-73.6s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    320.1  280.1                 
 51.7s  you      106251425 testridablehorse 106396846 N/A                    N/A         chest NaN      280.1  280.1  projectile_nan 
-50.4s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    280.1  240.1                 
-49.2s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    240.1  200.1                 
-48.1s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    200.1  160.1                 
-47.0s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.1m    160.1  120.1                 
 45.9s  you      106251425 testridablehorse 106396846 N/A                    N/A         chest NaN      120.1  120.1  projectile_nan 
 44.8s  you      106251425 testridablehorse 106396846 semi_auto_rifle.entity riflebullet chest 20.0m    120.1  80.1                  
 + 1 event in the last 10 seconds
@@ -71,4 +66,27 @@ time   attacker id        target           id        weapon                 ammo
 26.1s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      56.0   56.0   projectile_nan 
 24.7s  you      106251425 testridablehorse 106423842 N/A                    N/A         chest   NaN      56.0   56.0   projectile_nan 
 23.7s  you      106251425 testridablehorse 106423842 semi_auto_rifle.entity riflebullet leg     100.0m   56.0   24.0                  
+> copy
+time  attacker id       target           id       weapon                 ammo        area  distance old_hp new_hp info 
+39.5s you      36534218 testridablehorse 37176574 semi_auto_rifle.entity riflebullet chest 41.4m    400.0  362.1       
+37.7s you      36534218 testridablehorse 37176574 semi_auto_rifle.entity riflebullet chest 44.2m    343.2  305.6       
+35.9s you      36534218 testridablehorse 37176574 semi_auto_rifle.entity riflebullet chest 47.1m    286.8  249.5       
+34.2s you      36534218 testridablehorse 37176574 semi_auto_rifle.entity riflebullet chest 50.0m    230.9  193.9       
+32.3s you      36534218 testridablehorse 37176574 semi_auto_rifle.entity riflebullet chest 53.4m    175.4  138.7       
+30.1s you      36534218 testridablehorse 37176652 semi_auto_rifle.entity riflebullet chest 56.3m    400.0  363.6       
+28.2s you      36534218 testridablehorse 37176652 semi_auto_rifle.entity riflebullet chest 58.6m    345.4  309.3       
+26.3s you      36534218 testridablehorse 37176652 semi_auto_rifle.entity riflebullet chest 61.3m    291.2  255.4       
+24.0s you      36534218 testridablehorse 37176652 semi_auto_rifle.entity riflebullet chest 64.6m    237.4  201.9       
+21.8s you      36534218 testridablehorse 37176652 semi_auto_rifle.entity riflebullet chest 67.4m    184.1  148.9       
+19.9s you      36534218 testridablehorse 37176652 semi_auto_rifle.entity riflebullet chest 70.3m    131.2  96.3        
+18.1s you      36534218 testridablehorse 37176661 semi_auto_rifle.entity riflebullet chest 72.6m    400.0  365.3       
+15.8s you      36534218 testridablehorse 37176661 semi_auto_rifle.entity riflebullet chest 74.8m    347.9  313.4       
+13.7s you      36534218 testridablehorse 37176661 semi_auto_rifle.entity riflebullet chest 77.3m    296.1  261.8       
+11.6s you      36534218 testridablehorse 37176661 semi_auto_rifle.entity riflebullet chest 80.8m    244.7  210.8       
+> copy
+time  attacker id       target           id       weapon                 ammo        area  distance old_hp new_hp info 
+23.3s you      36534218 testridablehorse 37176544 semi_auto_rifle.entity riflebullet chest 85.7m    400.0  366.6       
+21.2s you      36534218 testridablehorse 37176544 semi_auto_rifle.entity riflebullet chest 88.1m    349.9  316.7       
+18.1s you      36534218 testridablehorse 37176544 semi_auto_rifle.entity riflebullet chest 91.0m    300.1  267.2       
+10.8s you      36534218 testridablehorse 37176544 semi_auto_rifle.entity riflebullet chest 96.8m    250.7  218.4       
 > copy

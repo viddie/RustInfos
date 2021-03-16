@@ -1,0 +1,59 @@
+time   attacker id       target           id       weapon          ammo         area  distance old_hp new_hp info   
+34.1s  you      36534218 testridablehorse 36703629 python.entity   pistolbullet chest 3.2m     259.7  204.7         
+32.1s  you      36534218 testridablehorse 36703629 python.entity   pistolbullet chest 6.5m     204.7  149.7         
+30.3s  you      36534218 testridablehorse 36703629 python.entity   pistolbullet leg   9.0m     149.7  95.0          
+29.2s  you      36534218 testridablehorse 36703629 python.entity   pistolbullet chest 10.4m    95.0   40.6          
+27.4s  you      36534218 testridablehorse 0        python.entity   pistolbullet chest 11.8m    40.6   440.0  killed 
+25.5s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 12.7m    400.0  346.3         
+20.3s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 14.5m    346.3  293.1         
+18.9s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 16.1m    293.1  240.3         
+17.0s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 17.5m    240.3  187.9         
+15.0s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 19.1m    187.9  136.0         
+13.0s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 20.6m    136.0  84.4          
+11.2s  you      36534218 testridablehorse 36703482 python.entity   pistolbullet chest 22.3m    400.0  348.9         
+> copy
+time   attacker id       target           id       weapon          ammo         area  distance old_hp new_hp info   
+31.8s  you      36534218 testridablehorse 36703482 python.entity   pistolbullet chest 23.2m    348.9  298.1         
+30.8s  you      36534218 testridablehorse 36703482 python.entity   pistolbullet chest 24.1m    298.1  247.6         
+29.8s  you      36534218 testridablehorse 36703482 python.entity   pistolbullet chest 24.9m    247.6  197.2         
+28.4s  you      36534218 testridablehorse 36703482 python.entity   pistolbullet chest 27.5m    197.2  147.6         
+27.1s  you      36534218 testridablehorse 36703757 python.entity   pistolbullet chest 29.4m    286.3  237.2         
+25.7s  you      36534218 testridablehorse 36703757 python.entity   pistolbullet chest 29.7m    237.2  188.1         
+20.6s  you      36534218 testridablehorse 36703757 python.entity   pistolbullet chest 30.7m    188.1  139.4         
+19.0s  you      36534218 testridablehorse 36703757 python.entity   pistolbullet chest 31.9m    139.4  90.9          
+17.2s  you      36534218 testridablehorse 36703757 python.entity   pistolbullet chest 33.1m    90.9   42.8          
+15.5s  you      36534218 testridablehorse 0        python.entity   pistolbullet chest 34.4m    42.8   440.0  killed 
+13.9s  you      36534218 testridablehorse 36703568 python.entity   pistolbullet chest 35.6m    84.4   37.0          
+12.2s  you      36534218 testridablehorse 0        python.entity   pistolbullet chest 36.0m    37.0   400.0  killed 
+> copy
+time   attacker id       target           id       weapon        ammo         area  distance old_hp new_hp info   
+167.3s you      36534218 testridablehorse 36737654 python.entity pistolbullet chest 35.8m    400.0  352.7         
+165.7s you      36534218 testridablehorse 36737654 python.entity pistolbullet chest 37.9m    352.7  305.9         
+164.4s you      36534218 testridablehorse 36737654 python.entity pistolbullet chest 39.2m    305.9  259.5         
+163.0s you      36534218 testridablehorse 36737654 python.entity pistolbullet chest 40.8m    259.5  213.5         
+161.6s you      36534218 testridablehorse 36737654 python.entity pistolbullet chest 42.4m    213.5  167.9         
+159.8s you      36534218 testridablehorse 36737654 python.entity pistolbullet chest 44.0m    167.9  122.8         
+153.0s you      36534218 testridablehorse 36737683 python.entity pistolbullet chest 44.9m    400.0  355.2         
+151.7s you      36534218 testridablehorse 36737683 python.entity pistolbullet chest 45.7m    355.2  310.5         
+150.4s you      36534218 testridablehorse 36737683 python.entity pistolbullet chest 46.6m    310.5  266.2         
+148.8s you      36534218 testridablehorse 36737683 python.entity pistolbullet chest 47.8m    266.2  222.1         
+147.4s you      36534218 testridablehorse 36737683 python.entity pistolbullet chest 48.9m    222.1  178.1         
+145.6s you      36534218 testridablehorse 36737683 python.entity pistolbullet chest 50.3m    178.1  134.1         
+> copy
+time   attacker id       target           id       weapon        ammo         area  distance old_hp new_hp info   
+5.6s  you      36534218 testridablehorse 36748714 python.entity pistolbullet chest 8.0m     400.0  345.0         
+14.8s  you      36534218 testridablehorse 36748714 python.entity pistolbullet chest 8.2m     345.0  290.1         
+14.2s  you      36534218 testridablehorse 36748714 python.entity pistolbullet chest 8.5m     290.1  235.2         
+13.4s  you      36534218 testridablehorse 36748714 python.entity pistolbullet chest 8.8m     235.2  180.4         
+12.8s  you      36534218 testridablehorse 36748714 python.entity pistolbullet chest 8.9m     180.4  125.7         
+12.1s  you      36534218 testridablehorse 36748714 python.entity pistolbullet chest 8.9m     125.7  70.9          
+> copy
+time   attacker id       target           id       weapon        ammo         area  distance old_hp new_hp info   
+183.7s you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 47.5m    400.0  355.9         
+18.5s  you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 47.7m    355.9  311.8         
+17.5s  you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 47.9m    311.8  267.8         
+16.6s  you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 48.2m    267.8  223.8         
+15.6s  you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 48.5m    223.8  179.8         
+14.5s  you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 48.8m    179.8  135.8         
+13.4s  you      36534218 testridablehorse 36737614 python.entity pistolbullet chest 49.0m    135.8  91.8          
+> copy

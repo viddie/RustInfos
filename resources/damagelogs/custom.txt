@@ -1,0 +1,85 @@
+35.5s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   3.8m     400.0  370.0         
+34.0s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   4.2m     370.0  340.0         
+32.9s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   4.9m     340.0  310.0         
+31.8s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   5.3m     310.0  280.0         
+30.8s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   5.9m     280.0  250.0         
+29.6s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   6.6m     250.0  220.0         
+28.5s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   7.3m     220.0  190.1         
+27.6s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet leg     7.6m     190.1  160.2         
+26.8s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   8.3m     160.2  130.4         
+25.8s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet leg     8.7m     130.4  100.7         
+24.8s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet leg     9.1m     100.7  71.1          
+23.5s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet leg     9.7m     71.1   41.5          
+22.5s   you      36534218 testridablehorse 36623693 smg.entity          pistolbullet chest   10.5m    41.5   12.1          
+20.8s   you      36534218 testridablehorse 0        smg.entity          pistolbullet chest   11.2m    12.1   400.0  killed 
+17.4s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   12.3m    440.0  410.9         
+16.6s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   13.0m    410.9  381.9         
+15.8s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   13.5m    381.9  353.0         
+14.8s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   13.8m    353.0  324.2         
+13.9s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   14.3m    324.2  295.5         
+12.6s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   14.9m    295.5  266.8         
+11.8s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet chest   15.6m    266.8  238.3         
+10.8s   you      36534218 testridablehorse 36623797 smg.entity          pistolbullet leg     16.2m    238.3  209.9         
+> copy
+time   attacker id       target           id       weapon     ammo         area  distance old_hp new_hp info   
+33.8s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet chest 17.6m    209.9  181.7         
+33.1s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet chest 18.1m    181.7  153.6         
+32.4s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet chest 18.2m    153.6  125.5         
+31.8s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet leg   18.4m    125.5  97.5          
+29.3s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet chest 19.4m    97.5   69.6          
+28.5s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet chest 19.6m    69.6   41.8          
+27.9s  you      36534218 testridablehorse 36623797 smg.entity pistolbullet chest 19.7m    41.8   13.9          
+27.3s  you      36534218 testridablehorse 0        smg.entity pistolbullet chest 20.3m    13.9   440.0  killed 
+25.8s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 20.5m    400.0  372.3         
+25.2s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 21.0m    372.3  344.7         
+24.6s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 20.8m    344.7  317.1         
+24.1s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 20.9m    317.1  289.5         
+23.6s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 21.7m    289.5  262.0         
+22.9s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 21.4m    262.0  234.4         
+22.3s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 21.6m    234.4  206.9         
+21.7s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 22.0m    206.9  179.5         
+21.2s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 22.1m    179.5  152.1         
+20.5s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 22.4m    152.1  124.7         
+19.9s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 22.6m    124.7  97.4          
+19.3s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 22.9m    97.4   70.1          
+17.7s  you      36534218 testridablehorse 36623644 smg.entity pistolbullet chest 23.1m    70.1   42.9          
+> copy
+time  attacker id       target           id       weapon     ammo         area  distance old_hp new_hp info   
+52.1s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 27.1m    346.4  319.8         
+51.2s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 27.8m    319.8  293.4         
+50.3s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 28.4m    293.4  267.1         
+49.6s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 29.2m    267.1  240.9         
+48.7s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 29.9m    240.9  214.8         
+47.9s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 30.7m    214.8  188.8         
+47.2s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 31.3m    188.8  163.0         
+46.5s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 31.8m    163.0  137.3         
+45.8s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 32.4m    137.3  111.6         
+45.2s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 33.1m    111.6  86.1          
+43.9s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 33.7m    86.1   60.7          
+43.0s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 34.3m    60.7   35.4          
+42.2s you      36534218 testridablehorse 36630224 smg.entity pistolbullet chest 34.8m    35.4   10.1          
+41.4s you      36534218 testridablehorse 0        smg.entity pistolbullet chest 35.5m    10.1   400.0  killed 
+40.2s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 36.3m    400.0  375.0         
+39.3s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 36.5m    375.0  350.1         
+38.6s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 37.0m    350.1  325.2         
+37.2s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 38.0m    325.2  300.6         
+36.5s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 38.4m    300.6  275.9         
+30.1s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 39.0m    275.9  251.4         
+29.5s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 39.5m    251.4  227.0         
+28.9s you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest 40.1m    227.0  202.7         
+27.6s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 41.0m    400.0  375.8         
+26.9s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 40.6m    375.8  351.6         
+26.3s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 41.0m    351.6  327.4         
+25.8s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 41.2m    327.4  303.3         
+25.2s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 41.7m    303.3  279.2         
+24.4s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 42.3m    279.2  255.2         
+23.7s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 42.6m    255.2  231.2         
+22.9s you      36534218 testridablehorse 36630141 smg.entity pistolbullet chest 43.1m    231.2  207.2         
+> copy
+time   attacker id       target           id       weapon     ammo         area    distance old_hp new_hp info   
+15.9s  you      36534218 testridablehorse 36630310 smg.entity pistolbullet chest   63.3m    74.7   50.7          
+12.4s  you      36534218 testridablehorse 36630310 smg.entity pistolbullet leg     69.4m    26.7   2.7           
+> copy
+
+
+

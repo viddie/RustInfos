@@ -1,0 +1,78 @@
+time  attacker id       target           id       weapon                 ammo         area  distance old_hp new_hp info   
+51.6s you      36534218 testridablehorse 36791899 pistol_semiauto.entity pistolbullet chest 8.2m     42.9   3.9           
+46.8s you      36534218 testridablehorse 0        pistol_semiauto.entity pistolbullet chest 11.6m    3.9    400.0  killed 
+45.3s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet chest 12.5m    400.0  362.4         
+44.8s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet chest 13.0m    362.4  324.9         
+44.2s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet chest 13.5m    324.9  287.7         
+43.7s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet chest 14.1m    287.7  250.6         
+43.2s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet chest 14.6m    250.6  213.6         
+42.7s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet leg   15.5m    213.6  177.0         
+42.1s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet chest 15.9m    177.0  140.5         
+41.6s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet leg   16.1m    140.5  104.0         
+41.0s you      36534218 testridablehorse 36791961 pistol_semiauto.entity pistolbullet leg   16.5m    104.0  67.7          
+36.5s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 17.2m    400.0  363.9         
+36.1s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 17.6m    363.9  327.9         
+35.2s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet leg   18.0m    327.9  292.1         
+34.6s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 18.4m    292.1  256.4         
+34.1s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet leg   18.8m    256.4  220.8         
+33.5s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 19.8m    220.8  185.5         
+33.0s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 20.2m    185.5  150.4         
+32.4s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 21.4m    150.4  115.7         
+31.9s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 21.4m    115.7  80.9          
+31.4s you      36534218 testridablehorse 36791855 pistol_semiauto.entity pistolbullet chest 21.7m    80.9   46.3          
+26.5s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 23.4m    400.0  365.9         
+25.5s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 24.4m    365.9  332.1         
+25.0s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 25.2m    332.1  298.5         
+24.4s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 25.5m    298.5  265.1         
+23.9s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet leg   26.0m    265.1  231.8         
+23.4s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet leg   26.4m    231.8  198.7         
+22.9s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 27.4m    198.7  165.8         
+22.3s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 27.4m    165.8  133.0         
+21.8s you      36534218 testridablehorse 36737733 pistol_semiauto.entity pistolbullet chest 27.9m    133.0  100.3         
+> copy
+time  attacker id       target           id       weapon                 ammo         area  distance old_hp new_hp info 
+22.1s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 4.6m     400.0  360.0       
+20.9s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 4.9m     360.0  320.0       
+20.3s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 5.7m     320.0  280.2       
+19.7s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 6.8m     280.2  240.8       
+19.0s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 7.0m     240.8  201.4       
+18.4s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 7.9m     201.4  162.4       
+17.8s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 8.5m     162.4  123.5       
+17.2s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet leg   8.6m     123.5  84.7        
+16.6s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet chest 9.8m     84.7   46.2        
+15.9s you      36534218 testridablehorse 36737561 pistol_semiauto.entity pistolbullet leg   9.9m     46.2   7.8         
+> copy
+time   attacker id       target           id       weapon                 ammo         area  distance old_hp new_hp info   
+3.9s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 4.8m     400.0  360.0         
+17.6s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 4.9m     360.0  320.0         
+17.0s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.2m     320.0  280.1         
+16.3s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet leg   5.2m     280.1  240.1         
+15.5s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.5m     240.1  200.3         
+14.9s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.6m     200.3  160.5         
+14.4s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.8m     160.5  120.7         
+13.0s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.7m     120.7  80.9          
+12.5s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.3m     80.9   41.0          
+12.1s  you      36534218 testridablehorse 36798711 pistol_semiauto.entity pistolbullet chest 5.2m     41.0   1.1           
+11.5s  you      36534218 testridablehorse 0        pistol_semiauto.entity pistolbullet chest 4.9m     1.1    400.0  killed 
+> copy
+time   attacker id       target           id       weapon                 ammo         area  distance old_hp new_hp info   
+33.9s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet chest 28.2m    400.0  367.4         
+33.2s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet chest 28.4m    367.4  334.9         
+32.7s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet leg   28.7m    334.9  302.5         
+32.2s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet chest 29.1m    302.5  270.2         
+31.5s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet chest 29.3m    270.2  238.0         
+30.9s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet leg   29.4m    238.0  205.8         
+30.4s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet chest 29.8m    205.8  173.8         
+29.8s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet chest 30.2m    173.8  141.8         
+29.3s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet leg   30.3m    141.8  109.8         
+28.7s  you      36534218 testridablehorse 36798693 pistol_semiauto.entity pistolbullet leg   30.6m    109.8  77.8          
+24.1s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 30.9m    400.0  368.0         
+23.5s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 31.4m    368.0  336.0         
+23.0s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 31.5m    336.0  304.0         
+21.0s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 34.5m    304.0  272.0         
+18.9s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 37.4m    272.0  240.0         
+17.0s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 40.0m    240.0  208.0         
+15.0s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 41.8m    208.0  176.0         
+13.1s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 44.1m    176.0  144.0         
+11.1s  you      36534218 testridablehorse 36798748 pistol_semiauto.entity pistolbullet chest 45.6m    144.0  112.0         
+> copy
