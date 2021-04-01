@@ -1,6 +1,6 @@
 # Upkeep
 
-The details of this mechanic are already [well known](https://www.corrosionhour.com/rust-decay-upkeep-variable/) but I wanted to capture it here as well for easy access  
+?> The details of this mechanic are already [well known](https://www.corrosionhour.com/rust-decay-upkeep-variable/) but I wanted to capture it here as well for easy access  
 
 Base's upkeep cost is based on the connected building blocks (everything you place a building plan, as well as doors and windows) and works in a tax bracket system
 
