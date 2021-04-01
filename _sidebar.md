@@ -7,10 +7,12 @@
   * [Guides](Guides)
   * [Hints](Hints)
   * [Optimal Burnables](Optimal-Burnables)
+  * [Buy-Resources](Buy-Resources)
 * Mechanics
   * [Comfort](Comfort)
   * [Damage Dropoff](Damage)
   * [Farming](Farming)
   * [Radiation Protection](Rad-Protection)
+  * [Upkeep](Upkeep)
   * [Weapon Recoil](Recoil)
 

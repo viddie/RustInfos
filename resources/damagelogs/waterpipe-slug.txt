@@ -1,0 +1,33 @@
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info 
+109.7s you      66942813 testridablehorse 66946629 shotgun_waterpipe.entity shotgunslug chest 15.2m    400.0  331.7       
+96.8s  you      66942813 testridablehorse 66946629 shotgun_waterpipe.entity shotgunslug chest 2.3m     297.5  217.5       
+90.0s  you      66942813 testridablehorse 66946629 shotgun_waterpipe.entity shotgunslug chest 29.5m    177.5  125.5       
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info 
+66.5s  you      66942813 testridablehorse 66946618 shotgun_waterpipe.entity shotgunslug chest 6.0m     400.0  321.2       
+60.1s  you      66942813 testridablehorse 66946618 shotgun_waterpipe.entity shotgunslug chest 7.7m     281.7  204.8       
+53.6s  you      66942813 testridablehorse 66946618 shotgun_waterpipe.entity shotgunslug chest 9.3m     166.3  91.2        
+38.8s  you      66942813 testridablehorse 66946612 shotgun_waterpipe.entity shotgunslug chest 11.8m    400.0  327.7       
+31.8s  you      66942813 testridablehorse 66946612 shotgun_waterpipe.entity shotgunslug chest 16.7m    291.6  225.0       
+24.3s  you      66942813 testridablehorse 66946612 shotgun_waterpipe.entity shotgunslug chest 21.1m    191.8  130.2       
+17.1s  you      66942813 testridablehorse 66946599 shotgun_waterpipe.entity shotgunslug chest 24.4m    400.0  342.2       
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info 
+41.5s  you      66942813 testridablehorse 66952591 shotgun_waterpipe.entity shotgunslug chest 3.7m     400.0  320.0       
+35.5s  you      66942813 testridablehorse 66952591 shotgun_waterpipe.entity shotgunslug chest 4.6m     280.0  200.0       
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info 
+42.3s  you      66942813 testridablehorse 66952591 shotgun_waterpipe.entity shotgunslug chest 5.2m     160.0  80.3        
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info   
+33.4s  you      66942813 testridablehorse 66946565 shotgun_waterpipe.entity shotgunslug chest 5.0m     280.6  200.6         
+13.6s  you      66942813 testridablehorse 66946565 shotgun_waterpipe.entity shotgunslug chest 5.1m     160.6  80.7          
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info   
+48.9s  you      66942813 testridablehorse 66956831 shotgun_waterpipe.entity shotgunslug chest 31.6m    400.0  350.4         
+41.6s  you      66942813 testridablehorse 66956831 shotgun_waterpipe.entity shotgunslug chest 34.3m    325.6  279.1         
+34.7s  you      66942813 testridablehorse 66956831 shotgun_waterpipe.entity shotgunslug chest 36.2m    255.8  211.4         
+27.2s  you      66942813 testridablehorse 66956799 shotgun_waterpipe.entity shotgunslug chest 39.2m    400.0  359.0         
+20.4s  you      66942813 testridablehorse 66956799 shotgun_waterpipe.entity shotgunslug chest 42.0m    338.6  298.6         
+13.8s  you      66942813 testridablehorse 66956799 shotgun_waterpipe.entity shotgunslug chest 44.7m    278.6  238.6         
+> copy

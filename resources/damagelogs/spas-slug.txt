@@ -1,0 +1,25 @@
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info   
+33.7s  you      66942813 testridablehorse 66959529 spas12.entity            shotgunslug chest 5.4m     440.0  380.3         
+31.6s  you      66942813 testridablehorse 66959529 spas12.entity            shotgunslug chest 6.9m     350.5  292.1         
+30.6s  you      66942813 testridablehorse 66959529 spas12.entity            shotgunslug chest 7.8m     262.9  205.3         
+29.4s  you      66942813 testridablehorse 66959504 spas12.entity            shotgunslug chest 7.8m     400.0  342.4         
+28.6s  you      66942813 testridablehorse 66959504 spas12.entity            shotgunslug chest 8.9m     313.7  257.0         
+27.7s  you      66942813 testridablehorse 66959504 spas12.entity            shotgunslug chest 9.7m     228.6  172.7         
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info 
+27.5s  you      66942813 testridablehorse 66956783 spas12.entity            shotgunslug chest 1.1m     400.0  340.0       
+20.9s  you      66942813 testridablehorse 66956783 spas12.entity            shotgunslug chest 18.6m    310.0  261.7       
+18.3s  you      66942813 testridablehorse 66956783 spas12.entity            shotgunslug chest 23.5m    237.5  193.4       
+16.0s  you      66942813 testridablehorse 66956783 spas12.entity            shotgunslug chest 27.6m    171.3  130.6       
+14.0s  you      66942813 testridablehorse 66956783 spas12.entity            shotgunslug chest 31.2m    110.3  72.8        
+11.7s  you      66942813 testridablehorse 66956759 spas12.entity            shotgunslug chest 34.7m    440.0  405.5       
+> copy
+time   attacker id       target           id       weapon                   ammo        area  distance old_hp new_hp info 
+23.9s  you      66942813 testridablehorse 66959504 spas12.entity            shotgunslug chest 45.5m    144.7  114.7       
+18.5s  you      66942813 testridablehorse 66959529 spas12.entity            shotgunslug chest 38.2m    176.5  145.0       
+> copy
+time   attacker id       target           id       weapon        ammo        area  distance old_hp new_hp info 
+36.1s  you      66942813 testridablehorse 66956759 spas12.entity shotgunslug chest 39.6m    388.2  357.9       
+20.0s  you      66942813 testridablehorse 66956700 spas12.entity shotgunslug chest 39.6m    400.0  369.6       
+13.8s  you      66942813 testridablehorse 66956700 spas12.entity shotgunslug chest 40.0m    354.4  324.4       
+> copy
