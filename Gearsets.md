@@ -50,7 +50,7 @@
 
 |Type|Link|Image|Additional Notes|
 |-----|----|-----|-----|
-|Armor|[Rustlabs Calculator](https://rustlabs.com/craft-calculator#task=bPDEx9gQQG87kTdkGdV0c0Ryqo9PSMONb4_6lUXChC9r-FWdVRI_sByoo;ingredients=bJaFX42dhGS-KZwpjIAe)|![](resources/gearsets/t2-late-armor.png)|Armor: 35%, 45%, 45%|
+|Armor|[Rustlabs Calculator](https://rustlabs.com/craft-calculator#task=bPDEx9gQQG88USkIQdV0c0Ryqo9PSMONb4_6lUXChC9r-FWdVRI_sByoo;ingredients=bJbFX42dhG9FYzRhKXnae)|![](resources/gearsets/t2-late-armor.png)|Armor: 35%, 45%, 45%|
 |Gear|[Rustlabs Calculator](https://rustlabs.com/craft-calculator#task=bMbEA058uG87qyDXGpHpVCiYcaFp5cO-8WEai;ingredients=bLDCFSEOIp4pogH1brTdZZIYaWhEXgRw9a5i)|![](resources/gearsets/t2-late-gear.png)|X|
 
 ## Tier 3
