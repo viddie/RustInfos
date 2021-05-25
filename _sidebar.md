@@ -1,13 +1,14 @@
 
 * [HOME](/)
 * Information
+
+  * [Buy-Resources](Buy-Resources)
   * [Buyable Items](Buyable-Items)
   * [Gearsets Crafting Cost](Gearsets)
   * [Glowing Sights](Glowing-Sights)
   * [Guides](Guides)
   * [Hints](Hints)
   * [Optimal Burnables](Optimal-Burnables)
-  * [Buy-Resources](Buy-Resources)
 * Mechanics
   * [Comfort](Comfort)
   * [Damage Dropoff](Damage)
