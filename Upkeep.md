@@ -19,4 +19,4 @@ If a structure has 20 blocks (regardless of building grade), 15 blocks will be t
 
 Below is a graph of the total cost % over the amount of building blocks. The cost will asymptotically approach 33.333%
 
-![](resources/upkeep.png)
+![](resources/general/upkeep.png)

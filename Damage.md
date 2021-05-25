@@ -1,13 +1,13 @@
 # Damage Dropoff
 
 - Damage dropoff in Rust is calculated based on the ammo type and the multiplier of the weapon used
-- Damage dropoff is also applied to Incendiary Ammo's bonus damage, but NOT to Fire Arrows
-- Value explanations:
+- Damage dropoff is also applied to Incendiary Ammo's bonus damage, but NOT to Fire Arrows' bonus damage
+- Below is a table of all values I found, an explanation at the start:
 
 | Value                   | Explanation                                                  |
 | ----------------------- | ------------------------------------------------------------ |
 | Start Range             | At and before this range, the weapon always deals 100% of the base damage |
-| End Range               | At and after this range, the weapon always deals 80% of the base damage |
+| End Range               | At and after this range, the weapon always deals the minimum damage (Usually 80% of the base damage) |
 | Weapon Range Multiplier | The start & end ranges depend on the ammo type. Each weapon has a multiplier that increases/decreases both of these ranges |
 
 ## Ammo Stats
